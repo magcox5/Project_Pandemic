@@ -1,25 +1,30 @@
-# Project 2:  Pandemics
-## By Melissa Wright and Molly Cox
-### [With additional technical support from tutors Mark Steadman, Samael Reyna, and Earnest Long Jr.]
-## The Task
+## Project Pandemic
+### By Molly Cox and Melissa Wright
+#### (Forked from UC Berkeley Bootcamp Project 2:  Pandemics)
+#### [With additional technical support from tutors Mark Steadman, Samael Reyna, and Earnest Long Jr.]
+
+### Project Description:
+The COVID-19 Pandemic has swept the globe.  In the recent past, what was the magnitude of other pandemics?  We gathered data from the Swine Flu outbreak of 2009, the Ebola outbreak of 2014 and  COVID data is as of March 2020 and compared their case and death rates through bar charts and a globe with each country's proportional case rate.
+
+### Steps taken to create the Website Dashboard:
 1. Use a Python Flask–powered RESTful API, HTML/CSS, JavaScript, and one database:  SQLite. 
-2. Make a dashboard page with multiple charts that update from the same data : Globe, Bar, Line  
-3. Use a JS library that we did not cover in class:  PlanetaryJS
-4. Ensure Visualizations are powered by  data sets with at least 100 records. : Multiple Pandemics & Centroids for plotting 195 Countries 
-5. User-driven interaction: dropdowns & Menu Bar to view about page / pandemic info / charts 
-6. Final visualization should ideally include at least three views. : Globe, Bar Chart, and Line Chart
+1. Make a dashboard page with multiple charts that update from the same data : Globe, Bar, Line  
+1. Use a JS library that we did not cover in class:  PlanetaryJS
+1. Ensure Visualizations are powered by  data sets with at least 100 records. : Multiple Pandemics & Centroids for plotting 195 Countries 
+1. User-driven interaction: dropdowns & Menu Bar to view about page / pandemic info / charts 
+1. Final visualization includes: Globe, Bar Chart, and Line Chart
 
 
 ### Dataset
 1. Covid19:   https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset#covid_19_data.csv
-2. Ebola 2014-16:  https://www.kaggle.com/imdevskp/ebola-outbreak-20142016-complete-dataset (we added possible, suspected to the confirmed deaths)
-3. Swineflu 2009:  https://en.wikipedia.org/wiki/2009_flu_pandemic_by_country
-4. Spanish Flu:  https://ourworldindata.org/spanish-flu-largest-influenza-pandemic-in-history  (for reference, not included in visualizations) 
+1. Ebola 2014-16:  https://www.kaggle.com/imdevskp/ebola-outbreak-20142016-complete-dataset (we added possible, suspected to the confirmed deaths)
+1. Swineflu 2009:  https://en.wikipedia.org/wiki/2009_flu_pandemic_by_country
+1. Spanish Flu:  https://ourworldindata.org/spanish-flu-largest-influenza-pandemic-in-history  (for reference, not included in visualizations) 
 
 ### Dataset for Population & Plotting on Map 
 
 1. United Nations:  https://population.un.org/wpp/Download/Standard/Population/
-2. Centroids Data - https://worldmap.harvard.edu/data/geonode:country_centroids_az8 
+1. Centroids Data - https://worldmap.harvard.edu/data/geonode:country_centroids_az8 
 
 ### ETL PROCESS 
 
