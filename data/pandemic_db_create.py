@@ -6,6 +6,7 @@ c = conn.cursor() # The database will be saved in the location where your 'py' f
 
 # Create table - PANDEMICS
 # 'Pandemic', 'Country', 'Year', 'Cases', 'Deaths', 'Lon', 'Lat', 'population'
+c.execute(''' DROP TABLE PANDEMICS ''')
 c.execute('''CREATE TABLE PANDEMICS
              ([generated_id] INTEGER PRIMARY KEY,[Pandemic] text, [Year] integer, [Cases] integer, [Deaths] integer, [Lon] real, [Lat] real, [population] integer)''')
                           
