@@ -35,7 +35,7 @@ The COVID-19 Pandemic has swept the globe.  In the recent past, what was the mag
 
 
 ### ***Datasets***
-1. Covid19:   https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset#covid_19_data.csv
+1. Covid19:   https://covid19.who.int/table (download latest data into a .csv file)
 1. Ebola 2014-16:  https://www.kaggle.com/imdevskp/ebola-outbreak-20142016-complete-dataset (we added possible, suspected to the confirmed deaths)
 1. Swineflu 2009:  https://en.wikipedia.org/wiki/2009_flu_pandemic_by_country
 1. Spanish Flu:  https://ourworldindata.org/spanish-flu-largest-influenza-pandemic-in-history  (for reference, not included in visualizations) 
@@ -91,7 +91,7 @@ These Change as you select the drop down
  ![ebolaglobe](Images/ebolaglobe.png)
  ![covidglobe](Images/covidglobe.png)
 
- ```![about](Images/about.png)```
+ ![about](Images/about.png)
 
  ### Challenges
  * Accuracy and availability of data: there is a lack of comprehensive data for pandemics prior to 1960 
