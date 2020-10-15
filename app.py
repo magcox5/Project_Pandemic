@@ -42,8 +42,7 @@ def about():
 
 @app.route("/api/v1.0/pandemic")
 def pandemic():
-   # Create our session (link) from Python to the DB
-    #session = Session(engine)
+   # Read data from database and store in JSON format in \Dashboard_Files\data\pandemic_final
 
     """ Query all Pandemics for 'Pandemic', 'Country', 'Year', 'Cases', 'Deaths', 'Lon', 'Lat', 'population'"""
     #results_old = session.query(pandemic_table.Pandemic, pandemic_table.Country, pandemic_table.Year, pandemic_table.Cases, pandemic_table.Deaths, pandemic_table.Lon, pandemic_table.Lat, pandemic_table.population).all()
