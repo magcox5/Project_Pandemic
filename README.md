@@ -4,7 +4,7 @@
 #### [With additional technical support from tutors Mark Steadman, Samael Reyna, and Earnest Long Jr.]
 ---
 ### ***Project Description:***
-The COVID-19 Pandemic has swept the globe.  In the recent past, what was the magnitude of other pandemics?  We gathered data from the Swine Flu outbreak of 2009, the Ebola outbreak of 2014 and  COVID data is as of March 2020 and compared their case and death rates through bar charts and a globe with each country's proportional case rate.
+The COVID-19 Pandemic has swept the globe.  In the recent past, what was the magnitude of other pandemics?  We gathered data from the Swine Flu outbreak of 2009, the Ebola outbreak of 2014 and  COVID data is as of October 2020 and compared their case and death rates through bar charts and a globe with each country's proportional case rate.
 
 ### ***Instructions:***
 1. Prerequisites:
